@@ -7,5 +7,3 @@ function sum(a, b) {
 it ('sums two values', () => {
   expect(sum(2, 3)).toBe(5);
 });
-
-//C:\WINDOWS\System32\cmd.exe

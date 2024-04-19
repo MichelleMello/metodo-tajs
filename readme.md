@@ -35,9 +35,9 @@ I will compile a list of recommended resources, including books, articles, tutor
 
 ## Technologies used
 I used some technologies during my studies and here you can see all:
-- VSCode;
-- Node.JS;
-- Jest;
+- VSCode
+- Node.JS
+- Jest
 - Ubuntu 22.04LTS (Using WSL)
 - Powershell
 - Oh my zsh
