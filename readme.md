@@ -12,6 +12,7 @@ Welcome to my testing techniques study repository! This repository is dedicated 
 - [Technologies used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
+- [Wakatime](#wakatime)
 
 ## Introduction
 
@@ -45,6 +46,7 @@ I used some technologies during my studies and here you can see all:
 - NTL (Node Task List)
 - GitHub Desktop
 - GitHub Copilot
+- Wakatime
 
 ## Contributing
 
@@ -53,3 +55,6 @@ If you have any suggestions or improvements for this study repository, feel free
 ## License
 
 This study repository is licensed under the [MIT License](LICENSE).
+
+## Wakatime
+[![wakatime](https://wakatime.com/badge/user/018e864b-c555-4395-be78-3f9a65937485/project/018ef293-663b-419f-aa93-2b0aed60df7e.svg)](https://wakatime.com/badge/user/018e864b-c555-4395-be78-3f9a65937485/project/018ef293-663b-419f-aa93-2b0aed60df7e)
