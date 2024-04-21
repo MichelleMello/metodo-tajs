@@ -16,7 +16,7 @@ Welcome to my testing techniques study repository! This repository is dedicated 
 
 ## Introduction
 
-In the introduction section, I will provide an overview of the importance of testing in software development and the role it plays in ensuring the quality and reliability of software.
+In this project, I studied how tests using Jest works. During the lesson, Erick Wendel introduced us to the best practices of Jest. 
 
 ## Testing Methodologies
 
@@ -29,6 +29,8 @@ The debugging strategies section will cover various techniques and tools that ca
 ## Best Practices
 
 In the best practices section, I will share valuable tips and recommendations for effective testing and debugging. These best practices will help you improve the quality of your software and streamline your testing processes.
+
+In the package.json file, we created 3 tests to run the tests in the terminal. During the studies, Git Bash were used as main terminal. Also, implemented the use of "cross-env" because it presented error in the terminal. To make things more interactive, we used NTL (Node Task List) to run the tests in the terminal (npm install -g ntl).
 
 ## Resources
 

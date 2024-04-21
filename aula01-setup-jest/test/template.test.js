@@ -1,3 +1,5 @@
+/* File with a simple sum method to be able to test how the code responds. Made with GitHub Copilot. */
+
 import {} from '@jest/globals';
 
 function sum(a, b) {
